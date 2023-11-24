@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+    id 'war'
+}
+
+apply plugin: 'java'
+apply plugin: 'war'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework:spring-webmvc:5.3.23'
+    implementation 'javax.servlet:jstl:1.2'
+    implementation 'javax.servlet:javax.servlet-api:3.1.0'
+    implementation 'org.apache.tomcat.embed:tomcat-embed-jasper:9.0.68'
+}
