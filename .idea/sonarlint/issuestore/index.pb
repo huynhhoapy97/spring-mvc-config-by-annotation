@@ -9,5 +9,9 @@ o
 ?src/main/java/com/huynhhoapy97/controllers/HelloController.java,6\f\6f3e1b410af6fc5f1346dbe3ac3f89c60da66502
 W
 'src/main/webapp/WEB-INF/views/hello.jsp,c\8\c8b2db7da25afd6aa507c68eb50537c59efc6cfe
-I
-src/main/webapp/hello.jsp,1\b\1b3fb2ce87c3816438f9d4d9c574c9a974a1eb02
+`
+0src/main/java/com/huynhhoapy97/models/Brand.java,3\1\3182bcdd592b9a0f91f95bb7ab4dae9324c84896
+b
+2src/main/java/com/huynhhoapy97/models/Product.java,0\e\0e6c64f3d105c8e3d1899840acfcb373e7b3a5f1
+d
+4src/main/java/com/huynhhoapy97/beans/BeanConfig.java,c\c\cc821c53bd4d3a17ec2a7afdb32f7cd90e145d01
